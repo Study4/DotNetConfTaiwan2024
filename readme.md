@@ -28,4 +28,4 @@
 
 - STUDY4.TW 官方網站：https://study4.tw/
 - STUDY4.TW 粉絲專頁：https://www.facebook.com/Study4.tw/
-- STUDY4.TW 聊天社團：https://www.facebook.com/groups/study4tw/# DotNetConfTaiwan2024
+- STUDY4.TW 聊天社團：https://www.facebook.com/groups/study4tw/#
